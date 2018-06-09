@@ -1,5 +1,7 @@
 # JS Basics
 
+**This is the solution**. [See the original without the solution here][master].
+
 - Open the project in Visual Studio Code
 - Start the Live Server
 - Open the Console tab on Chrome's DevTools
@@ -51,3 +53,5 @@
 
 1. Log the return value of the `sum` function's `toString()` method to the
    console
+
+[master]: https://github.com/thoughtworks-jumpstart/js-basics-2
