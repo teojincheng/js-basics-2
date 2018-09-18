@@ -1,7 +1,5 @@
 # JS Basics
 
-[See the solution here][solution].
-
 - Open the project in Visual Studio Code
 - Start the Live Server
 - Open the Console tab on Chrome's DevTools
