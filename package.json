@@ -1,0 +1,22 @@
+{
+  "name": "js-basics-2",
+  "version": "1.0.0",
+  "description": "- Open the project in Visual Studio Code - Start the Live Server - Open the Console tab on Chrome's DevTools",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teojincheng/js-basics-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teojincheng/js-basics-2/issues"
+  },
+  "homepage": "https://github.com/teojincheng/js-basics-2#readme",
+  "dependencies": {
+    "@thoughtworks-jumpstart/eat": "^1.0.4"
+  }
+}
